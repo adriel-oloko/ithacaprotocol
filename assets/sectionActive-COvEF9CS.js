@@ -1,0 +1,1 @@
+import{r as e}from"./index-BCy5xNdd.js";const n=()=>{const[s,t]=e.useState(!1),[i,c]=e.useState(!1);return{isActive:s,isFirstActive:i,active:()=>{t(!0)},disable:()=>{t(!1)},firstActive:()=>{c(!0)}}};export{n as s};
